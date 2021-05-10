@@ -6,7 +6,14 @@ The Anthurium Documentation project aims to collect and share information about 
 - Known Anthurium species and photos of them
 - Defining characteristics to aid in identification
 - Preferences in regards to growing for specific species
-- Known and possible hybrids between given species and other known hybrids
+- Known and possible hybrids between given species and other known hybrids (with photos where available)
+
+
+.. toctree::
+   :hidden:
+   :caption: Species
+
+   /species/forgetii
 
 Contribute
 ----------
@@ -17,4 +24,4 @@ Contribute
 License
 -------
 
-The project is licensed under the `Commons Clause <https://commonsclause.com/>`_ license.
+The project is licensed under the `Commons Clause <https://commonsclause.com/>`_ license. IANAL but the intention here is that this information can be used in any way other than selling it directly.
