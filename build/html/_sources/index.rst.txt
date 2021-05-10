@@ -11,7 +11,7 @@ The Anthurium Documentation project aims to collect and share information about 
 Contribute
 ----------
 
-- Source Code: `github.com/zensavona/anthuriums <https://github.com/zensavona/anthuriums>`_
+- Source Code: `github.com/zensavona/anthuriu.ms <https://github.com/zensavona/anthuriu.ms>`_
 - Instagram: `@zenm8 <https://instagram.com/zenm8>`_
 
 License
