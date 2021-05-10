@@ -1,5 +1,6 @@
+=======================
 Anthurium Documentation
-========
+=======================
 
 The Anthurium Documentation project aims to collect and share information about Anthuriums in cultivation:
 
@@ -8,12 +9,21 @@ The Anthurium Documentation project aims to collect and share information about 
 - Preferences in regards to growing for specific species
 - Known and possible hybrids between given species and other known hybrids (with photos where available)
 
+.. toctree::
+   :hidden:
+   :glob:
+   :caption: Species
+
+   /species/dressleri
+   /species/forgetii
 
 .. toctree::
    :hidden:
-   :caption: Species
+   :glob:
+   :caption: Hybrids
 
-   /species/forgetii
+   /hybrid/dresslerixforgetii
+
 
 Contribute
 ----------

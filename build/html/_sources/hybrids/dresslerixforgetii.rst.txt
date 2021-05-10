@@ -1,13 +1,12 @@
-
 .. image:: /images/forgetii/2.png
-   :width: 49%
-   :align: right
-   :target: https://www.instagram.com/p/COjSre_AZZY/
+  :width: 49%
+  :align: right
+  :target: https://www.instagram.com/p/COjSre_AZZY/
 
-.. _Forgetii:
+.. _Dressleri x Forgetii:
 
 ====================
-Anthurium *Forgetii*
+Anthurium *Dressleri* x *Forgetii*
 ====================
 
 :Section: Undocumented
@@ -20,14 +19,6 @@ A. *Forgetii* has peltate, closed (or absent) sinus, round petiole and an erect,
 
 The backs of the leaves are notably bumpy, and the leaf is often concave. Sometimes there is a subtle dip where many other Anthuriums would have a sinus.
 
-.. image:: /images/forgetii/1.png
-   :width: 49%
-   :target: https://www.instagram.com/p/COmdzFojFlI/
-
-.. image:: /images/forgetii/5.jpeg
-   :width: 49%
-   :target: http://www.aroidpictures.fr/GENERA/ANTHURIUMA-L/anthforgetii.html
-
 
 
 Variations
@@ -35,12 +26,12 @@ Variations
 The variations most universally recognised are "white stripe" (also known as "silver", "high silver" or "bullet") and "dark form".
 
 .. image:: /images/forgetii/3.png
-   :width: 49%
-   :target: https://www.instagram.com/p/COqMxlogggb/
+  :width: 49%
+  :target: https://www.instagram.com/p/COqMxlogggb/
 
 .. image:: /images/forgetii/4.png
-   :width: 49%
-   :target: https://www.instagram.com/p/COX-NCFgkQm/
+  :width: 49%
+  :target: https://www.instagram.com/p/COX-NCFgkQm/
 
 
 

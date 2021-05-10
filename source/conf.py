@@ -19,7 +19,7 @@ import sphinx_rtd_theme
 # -- Project information -----------------------------------------------------
 
 project = 'anthuriu.ms'
-copyright = '2021, Zen Savona'
+# copyright = '2021, Zen Savona'
 author = 'Zen Savona'
 
 
