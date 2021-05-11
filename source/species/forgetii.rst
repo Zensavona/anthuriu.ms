@@ -1,8 +1,8 @@
 
-.. image:: /images/forgetii/2.png
+.. image:: /images/forgetii/6.jpeg
    :width: 49%
    :align: right
-   :target: https://www.instagram.com/p/COjSre_AZZY/
+   :target: http://www.aroidpictures.fr/GENERA/ANTHURIUMA-L/anthforgetii.html
 
 .. _Forgetii:
 

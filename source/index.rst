@@ -10,6 +10,7 @@ The Anthurium Documentation project aims to collect and share information about 
 - Known and possible hybrids between given species and other known hybrids (with photos where available)
 
 .. toctree::
+   :maxdepth: 2
    :hidden:
    :glob:
    :caption: Species
@@ -18,6 +19,7 @@ The Anthurium Documentation project aims to collect and share information about 
    /species/forgetii
 
 .. toctree::
+   :maxdepth: 2
    :hidden:
    :glob:
    :caption: Hybrids
