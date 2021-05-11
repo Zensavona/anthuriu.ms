@@ -17,6 +17,7 @@ The Anthurium Documentation project aims to collect and share information about 
 
    /species/dressleri
    /species/forgetii
+   /species/papillilaminum
 
 .. toctree::
    :maxdepth: 2
@@ -25,6 +26,8 @@ The Anthurium Documentation project aims to collect and share information about 
    :caption: Hybrids
 
    /hybrid/dresslerixforgetii
+   /hybrid/forgetiixdressleri
+   /hybrid/papillilaminumxdressleri
 
 
 Contribute

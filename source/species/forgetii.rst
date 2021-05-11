@@ -49,7 +49,7 @@ Known Hybrids
 
 A. *Forgetii* is notable for it's unusually prolific ability to cross with a wide variety of Anthurium species and hybrids.
 
-- A. :ref:`Forgetii <Forgetii>` x :ref:`Dressleri <Dressleri>`
+- A. :ref:`Forgetii x Dressleri <Forgetii x Dressleri>` (:ref:`Forgetii <Forgetii>` x :ref:`Dressleri <Dressleri>`)
 
 Interesting Links
 -----------------
