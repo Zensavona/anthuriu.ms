@@ -1,7 +1,7 @@
 .. image:: /images/papillilaminum/1.jpg
    :width: 49%
    :align: right
-   :target: https://www.instagram.com/p/COj3aEhpCgU/
+   :target: https://www.instagram.com/p/CTZXhDQPykk/
 
 .. _Papillilaminum:
 

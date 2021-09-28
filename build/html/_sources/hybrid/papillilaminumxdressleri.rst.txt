@@ -12,6 +12,7 @@ Anthurium *Papillilaminum* x *Dressleri*
 :Section: Undocumented
 
 
+
 Defining Characteristics
 ------------------------
 

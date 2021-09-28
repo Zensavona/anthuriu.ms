@@ -4,20 +4,9 @@ Anthurium Documentation
 
 The Anthurium Documentation project aims to collect and share information about Anthuriums in cultivation:
 
-- Known Anthurium species and photos of them
+- Known Anthurium hybrids and photos of them
 - Defining characteristics to aid in identification
-- Preferences in regards to growing for specific species
 - Known and possible hybrids between given species and other known hybrids (with photos where available)
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :glob:
-   :caption: Species
-
-   /species/dressleri
-   /species/forgetii
-   /species/papillilaminum
 
 .. toctree::
    :maxdepth: 2
@@ -32,6 +21,8 @@ The Anthurium Documentation project aims to collect and share information about 
 
 Contribute
 ----------
+
+If you know how to use GitHub and restructuredtext, please feel free to send me a PR - if not, message me on IG and I'll see if I can help you out :)
 
 - Source Code: `github.com/zensavona/anthuriu.ms <https://github.com/zensavona/anthuriu.ms>`_
 - Instagram: `@zenm8 <https://instagram.com/zenm8>`_

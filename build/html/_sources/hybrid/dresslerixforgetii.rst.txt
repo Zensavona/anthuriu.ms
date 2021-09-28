@@ -36,4 +36,4 @@ A. *Dressleri* x *Forgetii* has tall lobes at the top of the leaf with a narrow 
 Known Hybrids
 -----------------
 
-It's unclear if A. *Dressleri* x *Forgetii* can set seed or pollinate another Anthurium hybrid or species, but it has been reported that it can pollinate A. *Papillilaminum*.
+It's unclear if A. *Dressleri* x *Forgetii* can set seed or pollinate another Anthurium hybrid or species, but it has been reported that it can pollinate A. *Forgetii* and accept pollen from A. Heinz Crystallinum
