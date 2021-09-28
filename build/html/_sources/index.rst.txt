@@ -14,6 +14,7 @@ The Anthurium Documentation project aims to collect and share information about 
    :glob:
    :caption: Hybrids
 
+   /hybrid/darkbullet
    /hybrid/dresslerixforgetii
    /hybrid/forgetiixdressleri
    /hybrid/papillilaminumxdressleri
