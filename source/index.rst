@@ -19,6 +19,7 @@ The Anthurium Documentation project aims to collect and share information about 
    /hybrid/dresslerixforgetii
    /hybrid/forgetiixdressleri
    /hybrid/papillilaminumxdressleri
+   /hybrid/royalwhore
 
 
 Contribute
