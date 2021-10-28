@@ -6,7 +6,7 @@
 .. _Royal Whore:
 
 ===================================
-Anthurium Hybrid *Royal Whore*
+Anthurium Hybrid *Royal Whore* 👸🍆
 ===================================
 
 :Section: Undocumented
